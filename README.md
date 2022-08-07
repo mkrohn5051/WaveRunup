@@ -7,6 +7,10 @@ This is the completed project file.  It shows the process of importing the data,
 
 Dependencies:
 
+Data source: the runups_distance.xslx file  
+
+Python packages:  
+
 import pandas as pd  
 import numpy as np  
 import matplotlib.pyplot as plt  
